@@ -42,6 +42,8 @@ _For detailed documentation, please refer to the [Docs][docs]._
 
 ## Release History
 
+-   0.0.4
+    -   Removed false dependency on express
 -   0.0.3
     -   Removed false dependency on express
 -   0.0.2
