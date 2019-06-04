@@ -67,3 +67,4 @@ Distributed under the MIT license. See `LICENSE` for more information.
 [npm-url]: https://npmjs.org/package/passport-apple-sign-in
 [npm-downloads]: https://img.shields.io/npm/dm/passport-apple-sign-in.svg?style=flat-square
 [docs]: https://capevace.github.io/passport-apple-sign-in
+[apple-docs]: https://developer.apple.com/documentation/signinwithapplerestapi
