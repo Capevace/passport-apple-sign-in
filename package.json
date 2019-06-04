@@ -1,0 +1,40 @@
+{
+  "name": "passport-apple-sign-in",
+  "version": "0.0.1",
+  "description": "Sign In with Apple Strategy for Passport.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "passport-oauth": "^1.0.0"
+  },
+  "devDependencies": {
+    "braintree-jsdoc-template": "^3.3.0",
+    "jsdoc": "^3.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -r lib/ -d docs -c jsdoc.config.js --readme README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capevace/passport-apple-sign-in.git"
+  },
+  "keywords": [
+    "apple",
+    "sign",
+    "in",
+    "signin",
+    "sign",
+    "in",
+    "with",
+    "apple",
+    "passport",
+    "strategy"
+  ],
+  "author": "Lukas Mateffy (@Capevace)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capevace/passport-apple-sign-in/issues"
+  },
+  "homepage": "https://github.com/capevace/passport-apple-sign-in#readme"
+}
