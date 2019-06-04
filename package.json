@@ -4,7 +4,6 @@
   "description": "Sign In with Apple Strategy for Passport.",
   "main": "lib/index.js",
   "dependencies": {
-    "express": "^4.17.1",
     "passport-oauth": "^1.0.0"
   },
   "devDependencies": {
