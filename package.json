@@ -1,6 +1,6 @@
 {
   "name": "passport-apple-sign-in",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sign In with Apple Strategy for Passport.",
   "main": "lib/index.js",
   "dependencies": {
