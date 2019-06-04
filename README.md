@@ -7,7 +7,7 @@
 **Warning: "Sign in with Apple" is not actually on the market yet, and this library was developed according to
 the [documentation specifications][apple-docs]. Use with caution.**
 
-### [Documentation](docs)
+## [Documentation](docs)
 
 ## Installation
 
