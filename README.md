@@ -1,3 +1,10 @@
+<br><br><br><br>
+
+## This project has been deprecated, as better options have emerged. 
+Please use [`passport-apple`](https://github.com/nicokaiser/passport-apple) or similar libraries in the future.
+
+<br><br><br><br><br><br><br><br>
+
 <h1 align="center">"Sign in with Apple" Passport Strategy</h1>
 <h6 align="center">Use Apple's brand new sign-in service with Passport.</h6>
 
